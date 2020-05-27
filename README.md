@@ -1,2 +1,1 @@
-# simple-contacts
-Just simple dict usage
+Here some simple python programs 
